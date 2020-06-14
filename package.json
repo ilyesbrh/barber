@@ -14,5 +14,8 @@
     "accomandation"
   ],
   "author": "ilies bourouh",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "perfect-scrollbar": "^1.5.0"
+  }
 }
